@@ -1,0 +1,15 @@
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.csproj.AssemblyReference.cache
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.AssemblyInfoInputs.cache
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.AssemblyInfo.cs
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.csproj.CoreCompileInputs.cache
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\bin\Debug\net7.0\bibli-as.exe
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\bin\Debug\net7.0\bibli-as.deps.json
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\bin\Debug\net7.0\bibli-as.runtimeconfig.json
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\bin\Debug\net7.0\bibli-as.dll
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\bin\Debug\net7.0\bibli-as.pdb
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.dll
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\refint\bibli-as.dll
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.pdb
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\bibli-as.genruntimeconfig.cache
+C:\Users\laris\OneDrive\Documentos\LDP\AS final\bibli-as\obj\Debug\net7.0\ref\bibli-as.dll
